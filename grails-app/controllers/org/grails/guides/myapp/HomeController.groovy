@@ -12,7 +12,7 @@ class HomeController {
     }
 
     def updateName(String name){
-        session.name = name
+        session.name = name //ini untuk mengubah session
 
         flash.message = "Name has been updated"
         redirect action: 'index'
