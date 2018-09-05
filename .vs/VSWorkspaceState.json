@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\grails-app",
+    "\\grails-app\\controllers\\myapp",
+    "\\grails-app\\domain",
+    "\\grails-app\\domain\\org",
+    "\\grails-app\\domain\\org\\grails",
+    "\\grails-app\\domain\\org\\grails\\guides",
+    "\\grails-app\\domain\\org\\grails\\guides\\myapp"
+  ],
+  "SelectedNode": "\\grails-app\\domain\\org\\grails\\guides\\myapp\\Vehicle.groovy",
+  "PreviewInSolutionExplorer": false
+}
