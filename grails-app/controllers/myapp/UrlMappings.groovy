@@ -9,7 +9,7 @@ class UrlMappings {
             }
         }
 
-        "/"(controller:"home")
+        "/"(controller:"home") //folder:"nama file"
         "500"(view:'/error')
         "404"(view:'/notFound')
     }
